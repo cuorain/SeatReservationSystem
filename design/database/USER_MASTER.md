@@ -8,6 +8,10 @@
 | 所属 | AFFILIATION | varchar | 20 | - | - |
 | ロール | ROLE_ID | varchar | 1 | - | Y |
 | パスワード | PASSWORD | varchar | 256 | - | Y |
+| 作成者 | CREATED_BY | int | - | - | Y |
+| 作成日時 | CREATED_AT | timestamp | - | - | Y |
+| 更新者 | UPDATED_BY | int | - | - | Y |
+| 更新日時 | UPDATED_AT | timestamp | - | - | Y |
 
 ## 一意制約
 * ユーザーID
