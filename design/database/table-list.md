@@ -1,5 +1,5 @@
 # テーブル一覧
-* ユーザーマスタ
-* 座席マスタ
-* ロールマスタ
-* 座席予約テーブル
+* ユーザーマスタ USER_MASTER
+* 座席マスタ SEAT_MASTER
+* ロールマスタ ROLE_MASTER
+* 座席予約テーブル SEAT_RESERVATION_TABLE
